@@ -21,8 +21,7 @@ public class Main {
 //            throw new RuntimeException(e);
 //        }
 //        out.print(Arrays.toString(array));
-        Homework02.splitString([{"фамилия":"Иванов","оценка":"5","предмет":"Математика"}, {"фамилия":"Петрова","оценка":"4","предмет":"Информатика"}, {"фамилия":"Краснов","оценка":"5","предмет":"Физика"}]);
-
+        Homework02.splitArray();
        }
 
 }
